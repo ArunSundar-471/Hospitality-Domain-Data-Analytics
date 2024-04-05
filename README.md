@@ -5,9 +5,9 @@ This Project consists Data Analytics of Hotel booking, for Data Visualization we
 
 
 ## Tools
-- Excel   - Data Cleaning
-- Python  - Data Analysis
+- Excel   - Data Cleaning 
 - PowerBI - Creating reports
+- Data Analysis
 
 ## Sample Report
 (https://github.com/ArunSundar-471/Hospitality-Domain-Data-Analytics/blob/main/Hospitality%20Domain/Visualization/Screenshot%202024-04-03%20210627.png)
